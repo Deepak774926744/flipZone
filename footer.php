@@ -30,7 +30,7 @@
            </div>
            <div class="copyright">
                
-               <h2 class="text-center ">Copyright &copy; 2019  <span class="footer-logo">flipZone </span>- All Right Reserved.</h2>
+               <h2 class="text-center ">Copyright &copy; 2020  <span class="footer-logo">flipZone </span>- All Right Reserved.</h2>
                
                
            </div>
